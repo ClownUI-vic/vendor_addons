@@ -1,11 +1,12 @@
 //
 // Copyright (C) 2024 The Evolution X Project
+// Copyright (C) 2024 The ClownUI Project
 // SPDX-License-Identifier: Apache-2.0
 //
 
 runtime_resource_overlay {
-    name: "NavbarEvolutionOverlay",
+    name: "NavbarClownOverlay",
     product_specific: true,
     sdk_version: "current",
-    theme: "NavbarEvolution",
+    theme: "NavbarClown",
 }
